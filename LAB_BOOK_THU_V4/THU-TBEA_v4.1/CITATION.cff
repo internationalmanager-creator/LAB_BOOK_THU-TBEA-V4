@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite it as below. /
+  Si utiliza este software, citelo como se indica. /
+  Wenn Sie diese Software nutzen, zitieren Sie sie bitte wie folgt.
+title: >-
+  THU-TBEA v4.1: Analisis de Torsion Espaciotemporal y Atractor Aureo
+  (Spacetime Torsion Analysis and Golden Attractor)
+authors:
+  - family-names: Duque
+    given-names: Erick
+    orcid: 'https://orcid.org/0009-0004-1245-5464
+    email: international_manager@comllcusa.com
+license: MIT
+version: 4.1
+date-released: '2026-08-19'
+keywords:
+  - spacetime torsion
+  - golden ratio attractor
+  - Pantheon+
+  - MCMC
+  - cosmology
